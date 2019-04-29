@@ -113,7 +113,7 @@
             <p>
 	            Released under the <a href="//github.com/scottparry/passphrase/blob/master/LICENSE" target="_blank">GPL v3 license</a>.
 
-                Copyright &copy; 2018 <a href="#"><i class="fas fa-shield-alt"></i> PassPhrase</a>.
+                Copyright &copy; <?php echo date('Y'); ?> <a href="#"><i class="fas fa-shield-alt"></i> PassPhrase</a>.
                 <br>
                 Icons by <a href="//fontawesome.com/" target="_blank">FontAwesome</a>.
             </p>
